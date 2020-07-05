@@ -1,3 +1,4 @@
+import time
 from car.car import Car
 
 if __name__ == '__main__':
